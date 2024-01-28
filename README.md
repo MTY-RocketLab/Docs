@@ -1,4 +1,3 @@
-# Documentation example
+# Documentación General MRL
 
-We use this example in the lesson
-[How to document your research software](https://coderefinery.github.io/documentation/).
+Hosteada en Github Pages, hecha con Sphinx y Read The Docs
