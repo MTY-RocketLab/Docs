@@ -1,4 +1,10 @@
 Avionica
 =========
 
-Aquí va la doc de avionica
+.. toctree::
+   :maxdepth: 2
+
+   srad
+   modulos
+   kalman
+ 
